@@ -1,7 +1,5 @@
 # rubixyt
 I exist.
-
-
-          # hi lol
-          
-     hello     
+   # hi lol
+        
+   hello     
